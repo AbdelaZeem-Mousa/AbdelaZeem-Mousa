@@ -14,8 +14,7 @@
 - 🏢 I'm a Software Engineer  at SapTech
 - 👨‍💻 As a IS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, C#, and Angular, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 
+
 
 
 ### Connect with Me :
