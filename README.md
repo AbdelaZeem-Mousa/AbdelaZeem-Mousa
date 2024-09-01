@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Software Engineer  at SaptecSystems
-- 👨‍💻 As a Information System student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Information System studied, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, C#, and Angular, or anything related to web development.
 
 
